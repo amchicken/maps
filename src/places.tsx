@@ -50,7 +50,7 @@ function Map() {
 
       <GoogleMap
         zoom={10}
-        center={selected ?? { lat: 43.45, lng: -80.49 }}
+        center={selected ?? { lat: 18.79562462851431, lng: 98.95318082587396 }}
         mapContainerClassName="map-container"
         onClick={onMapClick}
       >
