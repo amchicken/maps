@@ -20,7 +20,7 @@ interface GeolocationInterface {
 
 export default function Places() {
   const { isLoaded } = useLoadScript({
-    googleMapsApiKey: "YOUR API KEY",
+    googleMapsApiKey: "AIzaSyBrYXmZlcdTngY11zzOgf9AJtUWEshZpgc",
     libraries: ["places"],
   });
 
